@@ -1,0 +1,42 @@
+body {
+}
+p {
+  color: black;
+}
+h1 {
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  font-size: 67px;
+  padding-top: 67px;
+}
+h2 {
+  text-align: center;
+  font-size: 57;
+  color: white
+}
+
+.centered{
+  display: block;
+  margin: 0 auto;
+}
+
+.navbar-box {
+  background-color: #8b4141;
+  display: ;
+  padding: 10px 20px;
+  margin 20px;
+}
+.navbar-box a {
+  text-decoration: none;
+  color: white;
+  font-size:20px;
+  padding: 15px 15px;
+  display: inline-block;
+  
+}
+.navbar-box a:hover {
+  background-color: #333;
+  color: white;
+  border-radius: 5px;
+}
